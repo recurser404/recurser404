@@ -4,8 +4,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=schrosolver&layout=compact)
 
-## Java developer
--  👨‍💻I’m currently a student at NUS
+## Student
+-  👨‍💻I’m currently a graduate student at NUS
 
 ![voila](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 <!--
